@@ -1,0 +1,4 @@
+amplifier-core
+amplifier-module-resolution
+click>=8.1.0
+
